@@ -133,3 +133,6 @@ This project strengthened my understanding of:
 ✔ Input/Output Streams (reading/writing data over networks).
 
 By using VS Code for development and DeepSeek Chat for guidance, I successfully built a functional, real-time chat system. This project serves as a foundation for more advanced networked applications, such as online gaming servers or collaborative tools.
+
+*OUTPUT*:
+![Image](https://github.com/user-attachments/assets/bbaef5c5-7219-47af-ab63-7d17c2e34d40)
